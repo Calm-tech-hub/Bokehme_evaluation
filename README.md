@@ -1,2 +1,2 @@
 # Evaluation process:
-python evluation_psnr_ssim.py
+python evaluation_psnr_ssim.py
